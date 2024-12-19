@@ -133,9 +133,9 @@ Total Colors Used: 3
 
 ## Next Steps
 Explore more algorithms for graph coloring:
-- [Greedy Algorithm for Graph Coloring](./greedy_graph_coloring_readme.md)
+- [Greedy Algorithm for Graph Coloring](https://github.com/Shayanpouryazdan/uni-ai-2/tree/main/Source/Backtracking)
 
 ### گام‌های بعدی
 الگوریتم‌های بیشتری برای رنگ‌آمیزی گراف بررسی کنید:
-- [الگوریتم حریصانه برای رنگ‌آمیزی گراف](./greedy_graph_coloring_readme.md)
+- [الگوریتم حریصانه برای رنگ‌آمیزی گراف](https://github.com/Shayanpouryazdan/uni-ai-2/tree/main/Source/Backtracking)
 
