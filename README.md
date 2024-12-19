@@ -39,7 +39,7 @@ In this project, we compare the efficiency and accuracy of these two algorithms,
 ---
 
 ## How to Run
-2. Compile and execute the desired algorithm (Greedy or Backtracking):
+1. Compile and execute the desired algorithm (Greedy or Backtracking):
    ```bash
    g++ greedy_coloring.cpp -o greedy
    ./greedy
@@ -51,7 +51,7 @@ In this project, we compare the efficiency and accuracy of these two algorithms,
    ```
 
 ### نحوه اجرا
-2. الگوریتم مورد نظر (حریصانه یا پسگرد) را کامپایل و اجرا کنید:
+1. الگوریتم مورد نظر (حریصانه یا پسگرد) را کامپایل و اجرا کنید:
    ```bash
    g++ greedy_coloring.cpp -o greedy
    ./greedy
