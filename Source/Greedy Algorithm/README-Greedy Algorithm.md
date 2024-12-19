@@ -136,9 +136,9 @@ Total Colors Used: 3
 
 ## Next Steps
 To explore more advanced algorithms, check out:
-- [Backtracking for Graph Coloring](./backtracking_readme.md)
+- [Backtracking for Graph Coloring](https://github.com/Shayanpouryazdan/uni-ai-2/tree/main/Source/Backtracking)
 
 ### گام‌های بعدی:
 برای بررسی الگوریتم‌های پیشرفته‌تر، موارد زیر را ببینید:
-- [رنگ‌آمیزی گراف با روش پسگرد](./backtracking_readme.md)
+- [رنگ‌آمیزی گراف با روش پسگرد](https://github.com/Shayanpouryazdan/uni-ai-2/tree/main/Source/Backtracking)
 
